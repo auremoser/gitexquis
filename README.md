@@ -38,4 +38,5 @@ Pull to collect animations ideas from a branch / push to add them to the compone
 ### How to complete a cat
 Rebase and squash to create a composite from 3 illustrations, or append yours to an existing branch in the components folder, and submit it for consideration. Push your complete octocat image after combining all three parts to the composite folder for consideration. Approved cats will get pushed for posting to the Octodex based on admin discretion.
 
+![yes we code](https://raw.github.com/auremoser/gitexquis/master/imgs/codercat.jpeg)
 
