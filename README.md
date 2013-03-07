@@ -5,11 +5,11 @@ Exquisite corpse for octocat animations
 
 esquisse : sketch in french
 
-exquis : exquisite, beautiful, lovely 
+exquis : exquisite, beautiful, lovely in french
 
 This repo is a collaborative animation tool to design new costumes for octocat in the spirit of version control.
 There are a lot of these [octocat designs](http://octodex.github.com/). What if you could create a series of octocat costume proposals via composites of component illustrations from 3 users (VCS #rahrahrah)?
-So in the spirit of version control and the surrealist practice of [exquisite corpse illustrations](http://en.wikipedia.org/wiki/Exquisite_corpse), this repo crowdsources octocat illustrations in 3 parts, and then squashes tripartite cats to one composite cat. Not all of the procedures of Git are suited to this concept, so some of the workflows are awk/nonstandard, but the basic idea of VC illustrations and collaboration fit with git.
+So in the echo of VC and the surrealist practice of [exquisite corpse illustrations](http://en.wikipedia.org/wiki/Exquisite_corpse), this repo crowdsources octocat illustrations in 3 parts, and then squashes tripartite cats to one composite cat. Not all of the procedures of Git are suited to this concept, so some of the workflows are awk/nonstandard, but the basic idea of VC illustrations and collaboration fit with git.
 
 General Idea
 ---------------------
